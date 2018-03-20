@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "my nodejs lessons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexanderPindik/nodejs.git"
+  },
+  "author": "Alexander Pindik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexanderPindik/nodejs/issues"
+  },
+  "homepage": "https://github.com/AlexanderPindik/nodejs#readme"
+}
